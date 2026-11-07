@@ -46,6 +46,15 @@ These events warrant further investigation. The available simulated logs do not 
 - [View Simulated Windows Security Logs](evidence/windows-security-events.csv)
 - [View Endpoint Threat Investigation Report](investigation/endpoint-threat-analysis.md)
 
+## Screenshots
+
+### Simulated Windows Security Event Logs
+![Windows Security Event Logs](screenshots/windows-security-events.png)
+
+### Endpoint Threat Investigation Report
+![Endpoint Threat Investigation](screenshots/endpoint-threat-analysis.png)
+  
+
 ## Recommended SOC Response
 
 - Preserve the available security logs.
