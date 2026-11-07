@@ -1,0 +1,12 @@
+timestamp,hostname,event_id,level,account,source_ip,process,details
+2026-11-07T09:14:02,WIN-CLIENT01,4625,Warning,j.smith,192.0.2.45,Logon,Failed logon attempt
+2026-11-07T09:14:18,WIN-CLIENT01,4625,Warning,j.smith,192.0.2.45,Logon,Failed logon attempt
+2026-11-07T09:14:35,WIN-CLIENT01,4625,Warning,j.smith,192.0.2.45,Logon,Failed logon attempt
+2026-11-07T09:15:01,WIN-CLIENT01,4624,Information,j.smith,192.0.2.45,Logon,Successful logon
+2026-11-07T09:16:10,WIN-CLIENT01,4688,Information,j.smith,LOCAL,cmd.exe,Command prompt started
+2026-11-07T09:16:32,WIN-CLIENT01,4688,Information,j.smith,LOCAL,powershell.exe,PowerShell started
+2026-11-07T09:16:45,WIN-CLIENT01,4104,Warning,j.smith,LOCAL,powershell.exe,Get-LocalGroupMember command executed
+2026-11-07T09:17:02,WIN-CLIENT01,4104,Warning,j.smith,LOCAL,powershell.exe,Get-Process command executed
+2026-11-07T09:18:14,WIN-CLIENT01,4688,Information,j.smith,LOCAL,whoami.exe,User identity checked
+2026-11-07T09:20:05,WIN-CLIENT01,4624,Information,admin,192.0.2.10,Logon,Successful administrator logon
+2026-11-07T09:21:30,WIN-CLIENT01,4688,Information,admin,LOCAL,explorer.exe,Normal desktop activity
